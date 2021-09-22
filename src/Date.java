@@ -5,7 +5,7 @@
         private int year;
         private int month;
         private final String[] months = {"farvardin", "ordibehesht", "khordad", "tir", "mordad", "shahrivar"
-              ,"mehr", "aban", "azar", "dey", "bahman", "esfand"};
+              ,"mehr", "aban", "azar", "dey", "bahman"};
 
         public Date(int year, int month, int day) {
             this.year = year;
